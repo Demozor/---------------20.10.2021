@@ -1,0 +1,35 @@
+body {
+    color:navy
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    color: green
+}
+
+[id=1] {
+    font-size: 20px;
+    color:tomato;
+}
+
+#2 {
+    color:indigo;
+    background-color: black;
+}
+
+#three {
+    color:green;
+}
+
+.zag3 {
+    color:indianred;
+}
+
+.ol.list {
+    font-weight: 700;
+    color: orange;
+    list-style-type:upper-roman;
+}
